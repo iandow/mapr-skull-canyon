@@ -97,11 +97,11 @@ Running `cat /proc/cpuinfo | grep bogomip`:
 * Azure DS14: 70,393 BogoMIPS
 * HP Proliant DL380 G6: 89,600 BogoMIPS
 
-| Device                | BogoMIPS |
-|-----------------------|---------:|
-| Skull Canyon          | 41,472 |
-| HP Proliant DL380 G6  | 89,600 |
-| Azure DS14 VM         | 70,393 |
+| Device                | BogoMIPS | Memory |
+|-----------------------|----------|-------:|
+| Skull Canyon          | 41,472   | 32 GB  |
+| HP Proliant DL380 G6  | 89,600   | 94 GB  |
+| Azure DS14 VM         | 70,393   | 112 GB |
 
 ## I/O
 Running `hdparm -tT /dev/...`:
