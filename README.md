@@ -1,6 +1,6 @@
 Notes on running a 3-node MapR cluster with Ubuntu 14.04 on Intel NUC6i7KYK (Skull Canyon).
 
-![skull-canyon](img/skull-canyon.jpg)
+![skull-canyon](img/skull-canyon.gif)
 
 # Hardware
 
